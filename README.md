@@ -33,7 +33,8 @@ Lembre-se que como programador web, sua capacidade de escrever código limpo, es
 
 Se tiver alguma dúvida específica sobre tecnologias, linguagens de programação ou qualquer outra coisa relacionada ao seu trabalho, sinta-se à vontade para perguntar. Estou aqui para ajudar!
 
-Browser:
+<h1>Browser:</h1>
+
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 
 <h1>Soft Skill</h1>
