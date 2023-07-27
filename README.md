@@ -108,7 +108,9 @@ Se tiver alguma dúvida específica sobre tecnologias, linguagens de programaç�
 
 <h1>Stats:</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HendersonMoreiraicons=true&theme=radical)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HendersonMoreira&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 
 <p> Seja Bem Vindo ao Meu GitHub: >> Henderson Daniel << </p>
