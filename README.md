@@ -86,5 +86,5 @@ Streming:
 ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?https://github.com/HendersonMoreira=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apihttps://github.com/HendersonMoreira=anuraghazra&show_icons=true&theme=radical)
 Seja Bem Vindo ao Meu GitHub: >> Henderson Daniel <<
