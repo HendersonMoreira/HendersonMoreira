@@ -1,5 +1,3 @@
-<img width=100% height=210px src="https://64.media.tumblr.com/458f97a5842a31ce94df04e64fdaf074/tumblr_inline_ozkwj7tX7X1v12kq9_500.gifv?type=waving&color=ff91a4&height=120&section=header"/>
-
 ### Oie Tudo Bem ?? 👋
 Olá, Henderson! Como programador web, o meu papel envolve o desenvolvimento de aplicações e sistemas que funcionam na internet. Sua especialização é vital para criar sites, plataformas online e aplicações interativas que são acessadas pelos usuários através de navegadores web.
 
