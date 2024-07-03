@@ -2,7 +2,7 @@
 me chamou Henderson Daniel, sou programador a quase 2 anos **front end e um pouco de back end**, gostou de            
 aprender coisas novas e nas horas vagas jogo league of legends e outros jogos como overwatch e PUBG etc.
 adoro programação eo meu sonho um dia e trabalha para uma empresa fazendo oque eu amo que e programar
-<p align="right" align="center">
+<p align="right" top="50px">
 <img src="https://media.tenor.com/ZwiXDI5sKe0AAAAM/lain-serial-experiments-lain.gif">
 </p>
 <h1>Stats:</h1>
