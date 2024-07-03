@@ -1,9 +1,9 @@
-### Oie bem vindo ao meu GitHub ?? 👋
-me chamou Henderson Daniel, sou programador a quase 2 anos **front end e um pouco de back end**, gostou de            
+### Oie bem vindo ao meu GitHub 👋
+Me chamou Henderson Daniel, sou programador a quase 2 anos **front end e um pouco de back end**, gostou de            
 aprender coisas novas e nas horas vagas jogo league of legends e outros jogos como overwatch e PUBG etc.
 adoro programação eo meu sonho um dia e trabalha para uma empresa fazendo oque eu amo que e programar
-<p align="right" top="50px">
-<img src="https://media.tenor.com/ZwiXDI5sKe0AAAAM/lain-serial-experiments-lain.gif">
+<p align="right">
+<img src="[https://media.tenor.com/ZwiXDI5sKe0AAAAM/lain-serial-experiments-lain.gif](https://media0.giphy.com/media/Ii3Oi0h2srCD7m0iX1/giphy.gif?cid=6c09b952jacj1ym46bx5qhyqfh889q5ccr65r0lm6wuvwqmm&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
 </p>
 <h1>Stats:</h1>
 
