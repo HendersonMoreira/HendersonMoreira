@@ -13,7 +13,7 @@ de jogos futuramente
 
    <div align="center">  
   <a href="https://github.com/HendersonMoreira"><img src="https://github-readme-stats.vercel.app/api?username=HendersonMoreira&hide_border=true&show_icons=true" alt="Henderson Moreira's github stats"</a> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HendersonMoreira&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <a href="https://github.com/HendersonMoreira"><img width="41%" height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HendersonMoreira&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" </a>
 </div>
 </p>
 
