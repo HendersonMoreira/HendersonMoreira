@@ -9,7 +9,7 @@ de jogos futuramente
 <h1>status:</h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HendersonMoreira&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <a href="https://github.com/HendersonMoreira"><img src="https://github-profile-trophy.vercel.app/?username=HendersonMoreira&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"</a>
 
    <div align="center">  
   <a href="https://github.com/HendersonMoreira"><img src="https://github-readme-stats.vercel.app/api?username=HendersonMoreira&hide_border=true&show_icons=true" alt="Henderson Moreira's github stats"</a> 
