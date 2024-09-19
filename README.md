@@ -1,21 +1,72 @@
-### Oie bem vindo ao meu GitHub 👋
-Me chamou Henderson Daniel, sou programador a quase 2 anos **front end e um pouco de back end**, gostou de            
-aprender coisas novas e nas horas vagas jogo league of legends e outros jogos como overwatch e PUBG etc.
-adoro programação eo meu sonho um dia e trabalha para uma empresa fazendo oque eu amo e um dia um programador
-de jogos futuramente 
-<p align="right">
+<h1 align="center">Olá Mundo 🥰, eu sou Henderson</h1>
+
+###
+
 <img width="60%" height="300px" src="https://64.media.tumblr.com/57f29ff75434d8ca3d1ddb6591787859/a28909af12934d64-a8/s400x600/52b5db851378f1e3ff27de91349e24ade9438305.gif">
-</p>
-<h1>status:</h1>
 
-<p align="center">
-  <a href="https://github.com/HendersonMoreira"><img src="https://github-profile-trophy.vercel.app/?username=HendersonMoreira&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"</a>
+###
 
-   <div align="center">  
-  <a href="https://github.com/HendersonMoreira"><img src="https://github-readme-stats.vercel.app/api?username=HendersonMoreira&hide_border=true&show_icons=true" alt="Henderson Moreira's github stats"</a> 
-  <a href="https://github.com/HendersonMoreira"><img width="41%" height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HendersonMoreira&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" </a>
+<h3 align="left">Desenvolvedor full-stack entusiasta de tecnologia, inovação e ciência, sempre em busca de soluções eficientes e criativas.</h3>
+
+###
+
+<h5 align="left">🎓 Análise e Desenvolvimento de Sistemas<br>🌸 Pronomes: Ele/dele.<br>🎮 Curiosidade: Adoro videogames e programar.</h5>
+
+###
+
+<h2 align="left">Tecnologias:</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </div>
-</p>
 
+###
 
-<p> Seja Bem Vindo ao Meu GitHub: >> Henderson Daniel << </p>
+<h2 align="left">My Stats:</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HendersonMoreira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=pt-br&hide_border=false&order=1&custom_title=Statics" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HendersonMoreira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="left">Redes Sociais:</h2>
+
+###
+
+<div align="left">
+  <a href="..." target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="hendersondaniel20@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Meu CV:</h2>
+
+###
+
+<div align="left">
+  <a href="..." target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Mariana%20&logo=patreon&label=CV&color=FF4162&logoColor=black&labelColor=black&style=for-the-badge" height="40" alt="patreon logo"  />
+  </a>
+</div>
+###
