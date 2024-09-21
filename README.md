@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Desenvolvedor full-stack entusiasta de tecnologia, inovação e ciência, sempre em busca de soluções eficientes e criativas.</h3>
+<h3 align="left">Desenvolvedor full-stack entusiasta de tecnologia, inovação e ciência, sempre em busca de soluções eficientes e criativas para a área web.</h3>
 
 ###
 
